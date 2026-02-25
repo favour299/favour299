@@ -1,3 +1,4 @@
+
 ## My learning goals
 ### These semester 
 **Today** i ~~went~~ to the *market* and bought some 'fruits'
@@ -11,3 +12,8 @@ Ordered Lists:
 1.Doing assignment 
 2.Praticing
 3.And taking tests
+| Tool                | Purpose                               
+|---------   |-----------|----------|
+| Cable Ties | Organizes cables inside the computer case   
+| Multimeter | Measures Voltage      
+| Flashlight |  For illuminating dark areas inside a computer case 
