@@ -17,3 +17,6 @@ Ordered Lists:
 | Cable Ties | Organizes cables inside the computer case   
 | Multimeter | Measures Voltage      
 | Flashlight |  For illuminating dark areas inside a computer case 
+- [x] Created github account 
+- [ ] Python
+- [ ] Learning HTML
