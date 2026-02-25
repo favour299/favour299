@@ -20,3 +20,6 @@ Ordered Lists:
 - [x] Created github account 
 - [ ] Python
 - [ ] Learning HTML
+```python
+print("Text")
+```
