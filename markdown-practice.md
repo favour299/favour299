@@ -24,3 +24,5 @@ Ordered Lists:
 print("Text")
 ```
 <Time waits for no one>
+## About Me
+### Hi! I'm an **AI student** passionate about building intelligent systems that can learn, adapt, and solve real-world problems. My journey into artificial intelligence started with curiosity and has grown into a deep commitment to mastering both theory and practical applications.
