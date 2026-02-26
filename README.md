@@ -10,7 +10,7 @@
 - ["Python", "HTML/CSS", "Machine Learning"]
 
 ## Current Projects
-- [Introduction-to-AI](https://favour299.github.io) — AI is an artificial intelligence that solves problems.
+- [Introduction to-AI-Concept](https://favour299.github.io) — AI is an artificial intelligence that solves problems.
 
 ## How to Reach Me
 - Email: [azufavour884@gmail.com]
