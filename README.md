@@ -1,14 +1,11 @@
 ## Hi there 👋
-
-<!--
-**favour299/favour299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on Artificial intelligence 
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I'm Favour, an Ai student
+- 🔭 I’m currently working on becoming AI engineer  
+- 🌱 I’m currently learning python and other languages
+- 👯 I’m looking to collaborate on Partnerships
+- 🤔 I’m looking for help with other languages  
+- 💬 Ask me about Machine Learning
+- 📫 How to reach me: https://favour299.git.io
+- 😄 Pronouns:You will like a review of her code
+- ⚡ Fun fact:I love out door activities and trying out new things
 -->
