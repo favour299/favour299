@@ -1,11 +1,17 @@
-## Hi there 👋
-- I'm Favour, an Ai student
-- 🔭 I’m currently working on becoming AI engineer  
-- 🌱 I’m currently learning python and other languages
-- 👯 I’m looking to collaborate on Partnerships
-- 🤔 I’m looking for help with other languages  
-- 💬 Ask me about Machine Learning
-- 📫 How to reach me: https://favour299.git.io
-- 😄 Pronouns:You will like a review of her code
-- ⚡ Fun fact:I love out door activities and trying out new things
--->
+# Hi, I'm Favour
+
+## About Me
+- I'm currently learning [AI artificial intelligence "].
+- I'm interested in [ "AI, machine learning  and data science"].
+- I'm looking to collaborate on ["beginner-friendly open source projects"].
+
+## Skills I'm Building
+- Git and GitHub
+- ["Python", "HTML/CSS", "Machine Learning"]
+
+## Current Projects
+- [Introduction-to-AI](https://favour299.github.io) — AI is an artificial intelligence that solves problems.
+
+## How to Reach Me
+- Email: [azufavour884@gmail.com]
+- LinkedIn: [Favour Azu]
