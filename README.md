@@ -7,7 +7,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- ["Python", "HTML/CSS", "Machine Learning"]
+- ["Python", "HTML/CSS", "Machine Learning" "C/c++" "Robotics" "AI frameworks"]
 
 ## Current Projects
 - [Introduction to-AI-Concept](https://favour299.github.io) — AI is an artificial intelligence that solves problems.
